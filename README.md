@@ -1,35 +1,29 @@
-# beatbuff
+# Beatbuff
 
 ## Project Overview
-This repository contains the `beatbuff` project, a key component of my Data Science/Analytics portfolio.
+**BeatBuff** is a gesture-controlled music player that uses a webcam and computer vision to manage local songs hands-free. Built with **Python, OpenCV, MediaPipe, and Pygame**, it enables real-time control of playback, volume, and navigation through intuitive hand gestures with a smooth, modern, and lag-free interface.
+
+This repository is a part of my Data Analyst/Data Scientist portfolio. It demonstrates my ability to handle complex data, build robust models, and derive actionable insights.
 
 ## Features
 - End-to-end data processing pipeline
-- Interactive analytics
-- State-of-the-art modeling
+- Exploratory Data Analysis (EDA)
+- Robust modeling and predictive analytics
 
 ## Tech Stack
-- Python
-- Pandas, NumPy, Scikit-learn
-- Jupyter Notebooks
-
-## Architecture
-Data is ingested from source, cleaned, and processed through robust ML pipelines.
+- **Languages:** Python / SQL
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Tools:** Jupyter Notebooks, Git
 
 ## Installation
 ```bash
-git clone https://github.com/adwaidp23/beatbuff.git
-cd beatbuff
+git clone https://github.com/adwaidp23/BeatBuff.git
+cd BeatBuff
 pip install -r requirements.txt
 ```
 
 ## Usage
 Run the main scripts or Jupyter notebooks to see the analysis in action.
-
-## Project Structure
-- `src/` - Source code
-- `data/` - Dataset samples
-- `notebooks/` - Jupyter notebooks for exploratory analysis
 
 ## License
 MIT License
